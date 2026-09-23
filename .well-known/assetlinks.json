@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tqs.studio",
+      "sha256_cert_fingerprints": [
+        "72:67:24:3E:D2:DA:31:3C:20:30:F5:0F:FA:6C:70:25:22:93:EF:E8:56:6D:CA:D4:45:A6:9A:5E:23:16:69:7B"
+      ]
+    }
+  }
+]
